@@ -1,0 +1,4 @@
+[package]
+name = "activity-timer"
+version = "0.1.0"
+authors = ["Vasily Tokarev <vasily.t@icloud.com>"]
